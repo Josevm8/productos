@@ -1,0 +1,25 @@
+table.modelo {
+    border-collapse: collapse;
+    border: 1px solid #5284a4;
+    background-color: #f4f7f9;
+}
+
+table.modelo caption {
+    color: #fff; 
+    background-image: url("images/pi_cap.gif"); 
+    text-align: left;
+    font-weight: bold;
+    border-top: 1px solid #5284a4;
+    border-right: 1px solid #5284a4;
+    border-left: 1px solid #5284a4;
+    padding: 7px 10px; /*relleno vertical,relleno horizontal*/
+}
+
+
+
+
+
+
+
+
+

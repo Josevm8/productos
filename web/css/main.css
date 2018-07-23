@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Verdana, Times;
+    font-size: .7em;
+    color: #444;
+}
+
+#cbBuscar {
+    width: 550px;
+    margin: auto; 
+}
+
+#bloque {
+    width: 550px;
+    height: 40px;
+    margin: auto; 
+}
